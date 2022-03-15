@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'earhartPoint'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7E26D965AE2D4B57B490144C49E2AF6D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_34A637664FEF42E396335DAA256EDB6C }}
           package: .
